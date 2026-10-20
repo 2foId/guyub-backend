@@ -1,1 +1,0 @@
-export declare const ALLOWED_NEWS_DOMAINS: readonly ["antaranews.com", "kompas.com", "detik.com", "tempo.co", "cnnindonesia.com", "jatengprov.go.id", "suaramerdeka.com", "solopos.com", "tribunnews.com"];
